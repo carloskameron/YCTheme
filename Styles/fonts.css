@@ -1,0 +1,193 @@
+/*  Letra Apercu */
+@font-face{
+  font-family: Apercu;
+  src: url("Fuentes/Apercu/apercu.otf") format("opentype");
+}
+
+@font-face{
+  font-family: Apercu_Bold;
+  src: url("Fuentes/Apercu/apercu_bold.otf") format("opentype");
+}
+
+@font-face{
+  font-family: Apercu_Bold_Italic;
+  src: url("Fuentes/Apercu/Apercu_Bold_Italic.otf") format("opentype");
+}
+
+@font-face{
+  font-family: Apercu_Medium;
+  src: url("Fuentes/Apercu/Apercu_Medium.otf") format("opentype");
+}
+
+@font-face{
+  font-family: Apercu_Medium_Italic;
+  src: url("Fuentes/Apercu/Apercu_Medium_Italic.otf") format("opentype");
+}
+
+@font-face{
+  font-family: Apercu_Mono;
+  src: url("Fuentes/Apercu/apercu_mono.otf") format("opentype");
+}
+
+@font-face{
+  font-family: Apercu_Italic;
+  src: url("Fuentes/Apercu/ApercuItalic.otf") format("opentype");
+}
+
+@font-face{
+  font-family: Apercu_Light;
+  src: url("Fuentes/Apercu/ApercuLight.otf") format("opentype");
+}
+
+
+/*  Letra Chronicle Display */
+@font-face{
+  font-family: ChonicleDisplay;
+  src: url("Fuentes/ChronicleDisplay/Chronicle_Display_Roman.otf") format("opentype");
+}
+
+@font-face{
+  font-family: ChonicleDisplay_Light;
+  src: url("Fuentes/ChronicleDisplay/ChronicleDisplay_Light.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: ChonicleDisplay_Light_Italic;
+  src: url("Fuentes/ChronicleDisplay/Chronicle_Display_Light_Italic.otf") format("opentype");
+}
+
+@font-face{
+  font-family: ChonicleDisplay_Semi;
+  src: url("Fuentes/ChronicleDisplay/ChronicleDisplay_Semi.otf") format("opentype");
+}
+
+@font-face{
+  font-family: ChonicleDisplay_Semi_Italic;
+  src: url("Fuentes/ChronicleDisplay/ChronicleDisplay_SemiItalic.otf") format("opentype");
+}
+
+@font-face{
+  font-family: ChonicleDisplay_Black;
+  src: url("Fuentes/ChronicleDisplay/ChronicleDisplay_Black.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: ChonicleDisplay_Bold;
+  src: url("Fuentes/ChronicleDisplay/ChronicleDisplay_Bold.ttf") format("truetype");
+}
+
+
+/* Europa */
+@font-face{
+  font-family: Europa_Light;
+  src: url("Fuentes/Europa/Europa_Light.otf") format("opentype");
+}
+
+@font-face{
+  font-family: EuropaRegular;
+  src: url("Fuentes/Europa/Europa_Regular.otf") format("opentype");
+}
+
+@font-face{
+  font-family: Europa_Italic;
+  src: url("Fuentes/Europa/Europa_RegularItalic.otf") format("opentype");
+}
+
+@font-face{
+  font-family: Europa_Bold;
+  src: url("Fuentes/Europa/Europa_Bold.otf") format("opentype");
+}
+
+
+
+.LetraChronicleDisplayItalic
+{
+	font-family: "ChonicleDisplay_Light_Italic";
+	font-style: italic;
+}
+
+.letraCrhonicleDisplay
+{
+ font-family: "ChonicleDisplay";
+}
+
+body
+{
+ font-family: "ChonicleDisplay_Light";
+	font-size: 15px;
+}
+
+.letraEuropaLight
+{
+	font-family: "Europa_Light";
+	
+}
+
+.letraEuropa
+{
+	
+  font-family: "Europa_Light";
+}
+
+.LetraApercu
+{
+  font-family: "Apercu";
+}
+
+.LetraApercuLight
+{
+  font-family: "ApercuLight";
+}
+
+.LetraChronicleItalic
+{
+   font-family: "ChronicleDisplayItalic";
+    font-style: italic;
+}
+
+a
+{
+	cursor: pointer;
+}
+
+.center-justified{
+    text-align: justify;
+    -moz-text-align-last: center;
+    text-align-last: center;
+}
+
+.fondo10
+{
+font-size: 10px;
+	
+	letter-spacing: 3px;
+}
+
+.fondo11
+{
+font-size: 10px;
+	
+
+}
+
+
+
+.Espaciado
+{
+	letter-spacing: 3px;
+}
+
+h1
+{
+	font-size: 20px;
+	letter-spacing: 2px;
+}
+
+h6
+{
+	margin-top: 20px;
+	font-size: 10px;
+	letter-spacing: 5px;
+}
+
+

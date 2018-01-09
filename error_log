@@ -1,0 +1,5 @@
+[29-Sep-2017 23:17:18 America/Mexico_City] PHP Fatal error:  Call to undefined function bloginfo() in /home/yessica1/public_html/wp-content/themes/YessicaCruz/header.php on line 13
+[16-Oct-2017 05:24:47 America/Mexico_City] PHP Fatal error:  Call to undefined function get_header() in /home/yessica1/public_html/wp-content/themes/YessicaCruz/index.php on line 2
+[16-Oct-2017 18:42:34 America/Mexico_City] PHP Fatal error:  Call to undefined function bloginfo() in /home/yessica1/public_html/wp-content/themes/YessicaCruz/header.php on line 13
+[18-Oct-2017 10:15:14 America/Mexico_City] PHP Fatal error:  Call to undefined function bloginfo() in /home/yessica1/public_html/wp-content/themes/YessicaCruz/header.php on line 13
+[18-Oct-2017 17:48:26 America/Mexico_City] PHP Fatal error:  Call to undefined function get_header() in /home/yessica1/public_html/wp-content/themes/YessicaCruz/index.php on line 2

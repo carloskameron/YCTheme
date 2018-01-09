@@ -1,0 +1,72 @@
+/* Dropdown Button */
+.dropbtn {
+    color: black;
+  
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    z-index: 7000 !important;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #FFFFFF;
+    min-width: 160px;
+    box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.2);
+        z-index: 100000 !important;
+           font-family: "ChronicleDisplayItalic";
+    font-style: italic;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding-left: 15px;
+    padding-top: 7px;
+    padding-button: 7px;
+    text-decoration: none;
+    text-align: left;
+    display: block;
+}
+
+/* Referencias <a> tags Para Yessica - Wiboo 2016 */
+
+.dropdown-content a:link {
+    color: black;
+}
+
+/* visited link */
+.dropdown-content a:visited {
+    color: black;
+}
+
+/* mouse over link */
+.dropdown-content a:hover {
+    color: black;
+     text-decoration: underline;
+}
+
+/* selected link */
+.dropdown-content a:active {
+    color: black;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #FCFCFC}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #FCFCFC;
+}

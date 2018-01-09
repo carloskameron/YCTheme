@@ -1,0 +1,123 @@
+  .Espacio_Entre_Rows
+  {
+   padding-top: 50px;
+  }
+  
+  .cursor_pointer
+  {
+   cursor: pointer;
+  }
+  
+  .Espacio_Entre_Rows_Entregas
+  {
+   padding-top: 10px;
+  }
+   
+.col-centered{
+float: none;
+margin: 0 auto;
+}
+
+
+.center-justified {
+    text-align: justify;
+    -moz-text-align-last: center;
+    text-align-last: center;
+}
+
+.centrar_texto {
+ width: 50%;
+ margin: 0 auto;
+ }
+
+.justificado_izquierda
+{
+  text-align: justify;
+}
+
+
+
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+.navbar.center .navbar-inner .nav {
+    float: none;
+    display:inline-block;
+}
+
+
+ a:link{
+   text-decoration: none;
+  }
+  
+  /* visited link */
+a:visited {
+    color: gray;
+      text-decoration: none;
+    
+}
+
+/* mouse over link */
+a:hover {
+    color: #494748;  
+     text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: black;
+     text-decoration: none;
+}
+
+.Espacio_Entre_Titulo_y_parrafo
+{
+ margin-top: 30px;
+}
+
+        textarea
+        {
+            background-image: -webkit-linear-gradient(left, white 10px, transparent 10px), -webkit-linear-gradient(right, white 10px, transparent 10px), -webkit-linear-gradient(white 30px, #ccc 30px, #ccc 31px, white 31px);
+            background-image: -moz-linear-gradient(left, white 10px, transparent 10px), -moz-linear-gradient(right, white 10px, transparent 10px), -moz-linear-gradient(white 30px, #ccc 30px, #ccc 31px, white 31px);
+            background-image: -ms-linear-gradient(left, white 10px, transparent 10px), -ms-linear-gradient(right, white 10px, transparent 10px), -ms-linear-gradient(white 30px, #ccc 30px, #ccc 31px, white 31px);
+            background-image: -o-linear-gradient(left, white 10px, transparent 10px), -o-linear-gradient(right, white 10px, transparent 10px), -o-linear-gradient(white 30px, #ccc 30px, #ccc 31px, white 31px);
+            background-image: linear-gradient(left, white 10px, transparent 10px), linear-gradient(right, white 10px, transparent 10px), linear-gradient(white 30px, #ccc 30px, #ccc 31px, white 31px);
+            background-size: 100% 100%, 100% 100%, 100% 31px;
+            border: none;
+            line-height: 31px;
+           
+            padding: 8px;
+          
+        }
+        textarea:focus
+        {
+            outline: none;
+        }
+
+input
+{
+    /* round the corners */
+    background-color: transparent;
+    border: none;
+    font-family: "ChronicleDisplayItalic";
+    color: black;
+    border-color: white;
+    -webkit-appearance:none 
+
+}
+
+	.hideme
+	{
+    opacity:0;
+	}
+	
+	.Imagen_Principal_1
+	{
+	 opacity:0;
+	}
+
+
+.Home_Button
+{
+	cursor: pointer;
+}
+

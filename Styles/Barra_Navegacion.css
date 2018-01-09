@@ -1,0 +1,45 @@
+
+/*Barra de Navegación Yessica Cruz*/
+.navbar-brand {
+    position: absolute;
+    width: 90%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+   
+}
+.navbar-toggle {
+    
+}
+
+
+.navbar-default
+{
+  background-color: white;
+  color: black;
+  border: none;
+}
+
+.navbar-default .navbar-nav > li > a
+{
+color: black;
+}
+
+.Logotipo_Yessica
+{
+ height: 30px; 
+ 
+ margin: auto;
+margin-top: -5px;
+}
+
+.navbar-default .navbar-toggle
+{
+ border-color: white;
+}
+
+.navbar-default .navbar-toggle .icon-bar
+{
+background-color: #C5A72E;
+}
