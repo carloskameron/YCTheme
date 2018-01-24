@@ -144,6 +144,15 @@
 		 
 	 }
  </style>
+
+<style>
+select
+	{
+		border-bottom: 1px solid #a7a6a6 !important;
+		border-radius: 0px !important;
+		padding: 5px;
+	}
+</style>
  
  <script>
   $(document).ready(function(){

@@ -34,7 +34,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 <?php endif; ?>
 
-		<h2><?php _e( 'Login', 'woocommerce' ); ?></h2>
+		<h1  class="letraEuropaLight" style="font-weight: bold; text-transform: uppercase;"><?php _e( 'Login', 'woocommerce' ); ?></h1>
 
 		<form class="woocommerce-form woocommerce-form-login login" method="post">
 
